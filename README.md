@@ -1,2 +1,2 @@
 # Baekjoon_Problems
-# Source code of https://www.acmicpc.net/
+# Source code of problems in https://www.acmicpc.net/
